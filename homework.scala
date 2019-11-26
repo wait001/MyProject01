@@ -17,5 +17,6 @@ object homework {
     })
     rdd3.foreach(print)
     spark.stop()
+    val a=1
   }
 }
